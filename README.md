@@ -1,4 +1,1 @@
-#ansible_tutorial
-
-This is my awesome ansible repository!
-updating readme file
+# This repository is used for practicing Python coding.
