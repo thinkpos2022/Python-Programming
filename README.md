@@ -1,1 +1,1 @@
-# This repository is used for practicing Python coding.
+# This repository is used for practicing Python
