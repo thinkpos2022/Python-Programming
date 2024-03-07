@@ -23,19 +23,17 @@ class ContainsDuplicate:
             unique_set.add(num)
         return False
        
-
-
 nums1 = [1, 2, 3, 1]
-duplicate_checker = ContainsDuplicate()
-output1 = duplicate_checker.check_duplicate(nums1)
+dupl_nums = ContainsDuplicate()
+output1 = dupl_nums.check_duplicate(nums1)
 print(output1)
 
 nums2 = [1, 2, 3, 4]
-duplicate_checker = ContainsDuplicate()
-output2 = duplicate_checker.check_duplicate(nums2)
+dupl_nums = ContainsDuplicate()
+output2 = dupl_nums.check_duplicate(nums2)
 print(output2)
 
 nums3 = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]
-duplicate_checker = ContainsDuplicate()
-output3 = duplicate_checker.check_duplicate(nums3)
+dupl_nums = ContainsDuplicate()
+output3 = dupl_nums.check_duplicate(nums3)
 print(output3)
